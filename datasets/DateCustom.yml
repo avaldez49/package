@@ -200,7 +200,7 @@ columns:
     data_type: datetime
   - name: year_name
     data_type: string
-connection_id: as_adventure
+connection_id: AtscaleSnowflake
 project_properties:
   aggregate_locality: managed
   allow_aggregates: true
